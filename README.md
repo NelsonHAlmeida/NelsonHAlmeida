@@ -2,8 +2,6 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=NelsonHAlmeida.NelsonHAlmeida)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=NelsonHAlmeida)<br>
-
 <div align="center">
  
 <a href="https://github.com/NelsonHAlmeida">
