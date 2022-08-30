@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=nelsonhalmeida.nelsonhalmeida)
+
 <div align="center">
   <a href="https://github.com/NelsonHAlmeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NelsonHAlmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
