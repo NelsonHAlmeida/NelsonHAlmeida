@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=nelsonhalmeida.nelsonhalmeida)
+![](https://visitor-badge.glitch.me/badge?page_id=NelsonHAlmeida.NelsonHAlmeida)
 
 <div align="center">
   <a href="https://github.com/NelsonHAlmeida">
